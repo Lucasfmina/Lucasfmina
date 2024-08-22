@@ -1,16 +1,30 @@
-## Hi there 👋
+# Bem-vindo ao meu GitHub!
 
-<!--
-**Lucasfmina/Lucasfmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi! Sou um estudante e bolsista de pesquisa em Ciência da Computação na UERJ. Além de curtir programação em geral, me interesso muito por Ciência de dados, DevOps e desenvolvimento backend. Dá uma olhada nos meus repositórios públicos:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositórios Públicos
+
+### [UERJ-algorithms](https://github.com/Lucasfmina/UERJ-algorithms)
+Este repositório contém uma coleção de algoritmos desenvolvidos durante meu curso de graduação na UERJ. Eles abrangem diversas áreas da computação, desde estruturas de dados até algoritmos de ordenação e busca.
+
+### [embedded](https://github.com/Lucasfmina/embedded)
+Neste repositório, você encontrará os códigos que desenvolvi para projetos em um curso profissionalizante oferecido pelo InovUERJ, o departamento de inovação da UERJ. Esses projetos envolvem programação embarcada e foram fundamentais para aprofundar meu conhecimento em microprocessadores e dispositivos IoT.
+
+## Projetos Privados
+
+Além dos projetos públicos, também participei de iniciativas no Laboratório de Ciência da Computação da UERJ, onde desenvolvi soluções voltadas para IoT e automação. Esses projetos são privados, mas demonstram minha capacidade de aplicar conhecimento técnico em ambientes de pesquisa e desenvolvimento.
+
+## Tecnologias e Linguagens Aprendidas
+
+- Python, Java, C/C++, Kotlin e JavaScript
+- SQL, Pandas, Numpy e PowerBI
+- IoT Arduino, ESP32 / ESP8266
+- MQTT / HTTP / CoAP
+
+## Em Aprendizado
+
+- Cloud
+- Machine Learning
+- Apache Spark com Databricks
+- Microsserviços
