@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub! 👋
 
-Oi! Sou um estudante e bolsista de pesquisa em Ciência da Computação na UERJ. Além de curtir programação em geral, me interesso muito por Ciência de Dados 📊, DevOps 🔧 e desenvolvimento backend 💻. Dá uma olhada nos meus repositórios públicos:
+Oi! Sou um estudante e bolsista de pesquisa em Ciência da Computação na UERJ. Além de curtir programação em geral, me interesso muito por IoT, Ciência de Dados, DevOps e desenvolvimento backend 💻. Dá uma olhada nos meus repositórios públicos:
 
 ## Repositórios Públicos
 
