@@ -1,14 +1,13 @@
-# Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub! 👋
 
-Oi! Sou um estudante e bolsista de pesquisa em Ciência da Computação na UERJ. Além de curtir programação em geral, me interesso muito por Ciência de dados, DevOps e desenvolvimento backend. Dá uma olhada nos meus repositórios públicos:
-
+Oi! Sou um estudante e bolsista de pesquisa em Ciência da Computação na UERJ. Além de curtir programação em geral, me interesso muito por Ciência de Dados 📊, DevOps 🔧 e desenvolvimento backend 💻. Dá uma olhada nos meus repositórios públicos:
 
 ## Repositórios Públicos
 
-### [UERJ-algorithms](https://github.com/Lucasfmina/UERJ-algorithms)
+### [UERJ-algorithms](https://github.com/Lucasfmina/UERJ-algorithms) 📚
 Este repositório contém uma coleção de algoritmos desenvolvidos durante meu curso de graduação na UERJ. Eles abrangem diversas áreas da computação, desde estruturas de dados até algoritmos de ordenação e busca.
 
-### [embedded](https://github.com/Lucasfmina/embedded)
+### [embedded](https://github.com/Lucasfmina/embedded) 🔧
 Neste repositório, você encontrará os códigos que desenvolvi para projetos em um curso profissionalizante oferecido pelo InovUERJ, o departamento de inovação da UERJ. Esses projetos envolvem programação embarcada e foram fundamentais para aprofundar meu conhecimento em microprocessadores e dispositivos IoT.
 
 ## Projetos Privados
@@ -24,7 +23,7 @@ Além dos projetos públicos, também participei de iniciativas no Laboratório 
 
 ## Em Aprendizado
 
-- Cloud
-- Machine Learning
-- Apache Spark com Databricks
-- Microsserviços
+- Cloud ☁️
+- Machine Learning 🤖
+- Apache Spark com Databricks ✨
+- Microsserviços 🔄
