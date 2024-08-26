@@ -10,7 +10,7 @@ Oi! Sou um estudante e bolsista de pesquisa em Ciência da Computação na UERJ.
 ### [UERJ-algorithms](https://github.com/Lucasfmina/UERJ-algorithms) 📚
 Este repositório contém uma coleção de algoritmos desenvolvidos durante meu curso de graduação na UERJ. Eles abrangem diversas áreas da computação, desde estruturas de dados até algoritmos de ordenação e busca.
 
-### [Practice Algorithms](https://github.com/Lucasfmina/Practice-Algorithms) 🧩
+### [Practice Algorithms](https://github.com/Lucasfmina/algorithms-practice) 🧩
 Repositório dedicado à prática de algoritmos em sites como LeetCode e Beecrowd.
 
 ### [embedded](https://github.com/Lucasfmina/embedded) 🔧
