@@ -4,9 +4,6 @@ Oi! Sou um estudante e bolsista de pesquisa em Ciência da Computação na UERJ.
 
 ## Repositórios Públicos
 
-### [WeMarket](https://github.com/Lucasfmina/weMarket) 🛒
-**WeMarket** (nome provisório) é um aplicativo interativo que permite aos usuários criar e gerenciar listas de compras colaborativas. O projeto está em seus estágios iniciais de desenvolvimento e utiliza o nível gratuito da AWS para armazenamento e serviços de backend. Seu feedback e contribuições são bem-vindos!
-
 ### [UERJ-algorithms](https://github.com/Lucasfmina/UERJ-algorithms) 📚
 Este repositório contém uma coleção de algoritmos desenvolvidos durante meu curso de graduação na UERJ. Eles abrangem diversas áreas da computação, desde estruturas de dados até algoritmos de ordenação e busca.
 
